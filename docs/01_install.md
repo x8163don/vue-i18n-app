@@ -22,7 +22,7 @@ npm install vue-i18n
 
 ```
 
-在`src`下新增`lang`資料夾用來放置跟語系相關用途的資料並新增`lang.js`以及`language`資料夾 ,並新增`zh_TW.json`及`en_US.json`語系檔
+在`src`下新增`lang`資料夾用來放置跟語系相關用途的資料並新增`lang.js`以及`language`資料夾,並新增`zh_TW.json`及`en_US.json`語系檔
 
 ### Step 3: initialize lang.js
 
