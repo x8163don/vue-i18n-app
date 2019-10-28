@@ -1,0 +1,21 @@
+{
+  "app": {
+    "labels": {
+      "home": "home",
+      "about": "about"
+    }
+  },
+  "home": {
+    "headers": {
+      "title": "This is<br/>Title"
+    },
+    "labels": {
+      "placeholder": "please enter value"
+    }
+  },
+  "about": {
+    "headers": {
+      "title": "My name is %{name}"
+    }
+  }
+}

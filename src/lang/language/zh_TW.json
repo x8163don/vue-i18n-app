@@ -1,0 +1,21 @@
+{
+  "app": {
+    "labels": {
+      "home": "首頁",
+      "about": "關於"
+    }
+  },
+  "home": {
+    "headers": {
+      "title": "這是<br/>標題"
+    },
+    "labels": {
+      "placeholder": "請輸入值"
+    }
+  },
+  "about": {
+    "headers": {
+      "title": "我是 %{name}"
+    }
+  }
+}
